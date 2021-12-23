@@ -11,7 +11,7 @@ print("銀行的服務理念:",userbank.motto())
 #-------------------------------
 
 
-#-------類別建構元 初始化類別--------
+#-------類別建構元 初始化類別---------
 # class Bank():
 #     def __init__(self,username,money):#初始化 (銀行開戶)
 #         self.title="taipei bank"
